@@ -9,3 +9,8 @@ Transform any course transcript into an intelligent Q&A assistant using Retrieva
 RAG-Tutor creates a personalized AI tutor for Introduction to Tableau course, delivering instant, accurate answers to student questions.
 
 *Bridging the gap between AI and personalized education !!* 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
